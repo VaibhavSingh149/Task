@@ -10,7 +10,7 @@ body {
 /* Header */
 header {
     background-color: #4CAF50;
-    color: white;
+    color: blue; /*user wanted blue*/
     padding: 1em;
     text-align: center;
 }
